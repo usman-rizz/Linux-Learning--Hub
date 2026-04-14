@@ -31,7 +31,7 @@ This repository includes **hands-on learning**, such as:
 
 - Real Linux commands
 - Practical terminal examples
-- Interview-based explanations
+
 
 ---
 ## 👨‍💻 About the Author
